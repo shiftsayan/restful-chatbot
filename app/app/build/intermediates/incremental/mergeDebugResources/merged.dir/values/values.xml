@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="application_name">restful-chatbot</string>
+    <string name="bad_response">Sorry, that didn\'t work.</string>
+    <string name="default_text">Hi, how can I help you?</string>
+    <string name="incompatible_device">Sorry! Your device doesn\'t support speech input.</string>
+    <string name="mic_prompt">Tap on the mic icon to speak.</string>
+    <string name="settings">Settings</string>
+    <string name="unsupported_encoding">Unsupported encoding of server message.</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

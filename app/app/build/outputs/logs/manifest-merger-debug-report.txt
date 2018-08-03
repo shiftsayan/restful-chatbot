@@ -1,0 +1,74 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.volley:volley:1.1.0] /Users/SayanChaudhry/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/cac58c2f1a5092960bad054a2a095e62/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:7:5-8:54
+	android:name
+		ADDED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:8:9-51
+uses-sdk
+ADDED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:10:5-12:41
+INJECTED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:10:5-12:41
+INJECTED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:10:5-12:41
+MERGED from [com.android.volley:volley:1.1.0] /Users/SayanChaudhry/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/cac58c2f1a5092960bad054a2a095e62/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] /Users/SayanChaudhry/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/cac58c2f1a5092960bad054a2a095e62/AndroidManifest.xml:7:5-43
+INJECTED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:10:5-12:41
+INJECTED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:10:5-12:41
+	android:targetSdkVersion
+		ADDED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:12:9-38
+		INJECTED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:11:9-35
+		INJECTED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:14:5-29:19
+MERGED from [com.android.volley:volley:1.1.0] /Users/SayanChaudhry/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/cac58c2f1a5092960bad054a2a095e62/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /Users/SayanChaudhry/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/cac58c2f1a5092960bad054a2a095e62/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:18:9-49
+	android:roundIcon
+		ADDED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:19:9-40
+activity#com.shift.chatbot.MainActivity
+ADDED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:20:9-28:20
+	android:label
+		ADDED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:22:13-53
+	android:name
+		ADDED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:21:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/AndroidManifest.xml:26:27-74

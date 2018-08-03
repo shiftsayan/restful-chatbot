@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "11,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "664,955",
+                        "endLines": "17,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "950,1110"
+                    }
+                },
+                {
+                    "source": "/Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,7,4,5,6,3,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "57,401,166,232,331,119,469",
+                        "endColumns": "60,66,64,97,68,45,88",
+                        "endOffsets": "113,463,226,325,395,160,553"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "169,230,297,362,460,529,575",
+                        "endColumns": "60,66,64,97,68,45,88",
+                        "endOffsets": "225,292,357,455,524,570,659"
+                    }
+                },
+                {
+                    "source": "/Users/SayanChaudhry/Documents/git/restful-chatbot/app/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}

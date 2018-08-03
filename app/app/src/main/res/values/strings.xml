@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">restful-chatbot</string>
+    <string name="settings">Settings</string>
+    <string name="default_text">Hi, how can I help you?</string>
+    <string name="incompatible_device">Sorry! Your device doesn\'t support speech input.</string>
+    <string name="mic_prompt">Tap on the mic icon to speak.</string>
+    <string name="bad_response">Sorry, that didn\'t work.</string>
+    <string name="unsupported_encoding">Unsupported encoding of server message.</string>
+</resources>
