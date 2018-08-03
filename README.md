@@ -1,6 +1,6 @@
 # RESTful Chatbot
 
-This is a chatbot built using `chatterbot` and `flask-RESTful`, along with accompanying Android application. It also uses Google's Speech to Text and Text to Speech APIs for voice interaction.
+This is a web-based chatbot built using `chatterbot` and `flask-RESTful`, along with accompanying Android application. It also uses Google's Speech to Text and Text to Speech APIs for voice interaction.
 
 ### Dependancies
 
